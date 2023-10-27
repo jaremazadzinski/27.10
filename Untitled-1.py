@@ -1,0 +1,2 @@
+*.pyc
+print("good day")
